@@ -1,10 +1,4 @@
 Esta es mi historia 
-Hola me llamo Fernando y tengo 100 años y vivo en la cuidad de Paita
-departamento de Piura
+Hola me llamo Fernando y tengo 100 años y vivo en Paita
 
-Estudio en la Universidad Nacional de Piura
-
-Actualmente esta cursando el curso profesioanal de git y github 
-El curso es entendible
-El profesor es freddy vega
-
+Github es muy importante que tienes que aprender
