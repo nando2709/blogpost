@@ -4,5 +4,6 @@ departamento de Piura
 
 Estudio en la Universidad Nacional de Piura
 
-Actualmente esta cursando el curso profesioanal de git y github
+Actualmente esta cursando el curso profesioanal de git y github 
+El curso es entendible
 
