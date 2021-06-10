@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-Esta es la historia de Freddy Vega
-Freddy Vega tiene 32 años y nacio en colombia
-Mañana nos enfocaremos en su vida laboral  
-=======
-Esta es mi historia 
-Hola me llamo Fernando y tengo 100 años y vivo en Paita
-
+Esta es mi historia
+Hola me llamo Thanos  y tengo 3000 años y vivo en Paita
+Hola yo soy Tony Stark y tengo 50 años vivo en el cementerio porque estoy muerto
+Hola soy Peeter Parker y tengo 23 años vivo salvando el mundo
 Github es muy importante que tienes que aprender
->>>>>>> eefe60bde96fd438b2a42a3970535d53cfd6ec66
+    
