@@ -1,2 +1,5 @@
-# blogpost
-Este es un blog de prueba para Git y GitHub
+#Blogpost
+Un genial blog para el curso de git y github
+> El curso de Git y Github de Platzi es genial y facil de entender
+
+Y como un amable recordatorio: **Este readme.md es un chiste**.
